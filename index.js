@@ -35,6 +35,8 @@ function fizzBuzz() {
     isSquare(25) === true
 */
 function isSquare(n) {
+	//Math.Squrt
+
     switch (n % 10) {
         case 2:
         case 3:
